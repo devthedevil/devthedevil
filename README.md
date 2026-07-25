@@ -20,7 +20,18 @@ Software Engineer with work experience in developing scalable web, mobile applic
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devthedevil&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+https://github.com/younisdev/dyvix-ui/pull/429
+https://github.com/younisdev/dyvix-ui/pull/412
+https://github.com/lingdojo/kana-dojo/pull/24179
+https://github.com/bioedca/Yeliztli/pull/1777
+https://github.com/younisdev/dyvix-ui/pull/354
+https://github.com/QuantEcon/lecture-jax/pull/330
+https://github.com/devthedevil/agentstore/pull/2
+https://github.com/devthedevil/agentstore/pull/1
+https://github.com/Tracer-Cloud/opensre/pull/3737
+https://github.com/Felix-LeeSM/table-view/pull/1321
+https://github.com/devthedevil/graphql/pull/1
+https://github.com/lingdojo/kana-dojo/pull/22019
 ---
 [![](https://komarev.com/ghpvc/?username=devthedevil&icon=0&color=0)](https://visitcount.itsvg.in)
 
